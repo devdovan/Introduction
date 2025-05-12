@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-KararYapilari", "08-Kara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-KararYapılarıTernaryIf", "09-KararYapılarıTernaryIf\09-KararYapılarıTernaryIf.csproj", "{87EF7442-3E68-4F9B-A2A2-E2E146CB04CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-KararYapilariSwitchCase", "10-KararYapilariSwitchCase\10-KararYapilariSwitchCase.csproj", "{E4583107-8111-4A89-A894-2D8E5A63C328}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{87EF7442-3E68-4F9B-A2A2-E2E146CB04CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87EF7442-3E68-4F9B-A2A2-E2E146CB04CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87EF7442-3E68-4F9B-A2A2-E2E146CB04CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4583107-8111-4A89-A894-2D8E5A63C328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4583107-8111-4A89-A894-2D8E5A63C328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4583107-8111-4A89-A894-2D8E5A63C328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4583107-8111-4A89-A894-2D8E5A63C328}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
