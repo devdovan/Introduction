@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-TypeCastingLAB", "06-Typ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-HataYonetimi", "07-HataYonetimi\07-HataYonetimi.csproj", "{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-KararYapilari", "08-KararYapilari\08-KararYapilari.csproj", "{AE53C8B1-D869-4A0D-9991-45CE4A4DD6C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE53C8B1-D869-4A0D-9991-45CE4A4DD6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE53C8B1-D869-4A0D-9991-45CE4A4DD6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE53C8B1-D869-4A0D-9991-45CE4A4DD6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE53C8B1-D869-4A0D-9991-45CE4A4DD6C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
