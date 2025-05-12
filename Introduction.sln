@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-FirstApp", "01-FirstApp\01-FirstApp.csproj", "{03081224-0A1B-4C6D-9212-31A47476519E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-FirstApp", "01-FirstApp\01-FirstApp.csproj", "{03081224-0A1B-4C6D-9212-31A47476519E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Variables", "02-Variables\02-Variables.csproj", "{6C522914-84EA-4CF2-AF12-D614C205A189}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Variables", "02-Variables\02-Variables.csproj", "{6C522914-84EA-4CF2-AF12-D614C205A189}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-DegiskenlerAnonimTipler", "03-DegiskenlerAnonimTipler\03-DegiskenlerAnonimTipler.csproj", "{7D8A5469-F9E5-4B2C-B063-E198911D9689}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-DegiskenlerAnonimTipler", "03-DegiskenlerAnonimTipler\03-DegiskenlerAnonimTipler.csproj", "{7D8A5469-F9E5-4B2C-B063-E198911D9689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Operators", "04-Operators\04-Operators.csproj", "{B0EBEEB4-21E7-4142-8494-A55B646DC49D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-Operators", "04-Operators\04-Operators.csproj", "{B0EBEEB4-21E7-4142-8494-A55B646DC49D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-TypeCasting", "05-TypeCasting\05-TypeCasting.csproj", "{FD1A4F2D-98C2-4B69-88FB-E92A581F9C4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-TypeCasting", "05-TypeCasting\05-TypeCasting.csproj", "{FD1A4F2D-98C2-4B69-88FB-E92A581F9C4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-TypeCastingLAB", "06-TypeCastingLAB\06-TypeCastingLAB.csproj", "{EEE062B7-A4F5-4536-9D6A-EF3658A24D04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-TypeCastingLAB", "06-TypeCastingLAB\06-TypeCastingLAB.csproj", "{EEE062B7-A4F5-4536-9D6A-EF3658A24D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-HataYonetimi", "07-HataYonetimi\07-HataYonetimi.csproj", "{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{EEE062B7-A4F5-4536-9D6A-EF3658A24D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEE062B7-A4F5-4536-9D6A-EF3658A24D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEE062B7-A4F5-4536-9D6A-EF3658A24D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
