@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-TypeCasting", "05-TypeCa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-TypeCastingLAB", "06-TypeCastingLAB\06-TypeCastingLAB.csproj", "{EEE062B7-A4F5-4536-9D6A-EF3658A24D04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-HataYonetimi", "07-HataYonetimi\07-HataYonetimi.csproj", "{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-HataYonetimi", "07-HataYonetimi\07-HataYonetimi.csproj", "{FF911DC1-0DE5-44F9-90D6-D9385F20B7E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-KararYapilari", "08-KararYapilari\08-KararYapilari.csproj", "{AE53C8B1-D869-4A0D-9991-45CE4A4DD6C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-KararYapilari", "08-KararYapilari\08-KararYapilari.csproj", "{AE53C8B1-D869-4A0D-9991-45CE4A4DD6C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-KararYapılarıTernaryIf", "09-KararYapılarıTernaryIf\09-KararYapılarıTernaryIf.csproj", "{87EF7442-3E68-4F9B-A2A2-E2E146CB04CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-KararYapılarıTernaryIf", "09-KararYapılarıTernaryIf\09-KararYapılarıTernaryIf.csproj", "{87EF7442-3E68-4F9B-A2A2-E2E146CB04CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-KararYapilariSwitchCase", "10-KararYapilariSwitchCase\10-KararYapilariSwitchCase.csproj", "{E4583107-8111-4A89-A894-2D8E5A63C328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-KararYapilariSwitchCase", "10-KararYapilariSwitchCase\10-KararYapilariSwitchCase.csproj", "{E4583107-8111-4A89-A894-2D8E5A63C328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-DongulerForDongusu", "11-DongulerForDongusu\11-DongulerForDongusu.csproj", "{76460547-9825-4913-994D-ADEB0E922C22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{E4583107-8111-4A89-A894-2D8E5A63C328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4583107-8111-4A89-A894-2D8E5A63C328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4583107-8111-4A89-A894-2D8E5A63C328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76460547-9825-4913-994D-ADEB0E922C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76460547-9825-4913-994D-ADEB0E922C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76460547-9825-4913-994D-ADEB0E922C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76460547-9825-4913-994D-ADEB0E922C22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
