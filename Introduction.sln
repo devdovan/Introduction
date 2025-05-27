@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-DongulerWhileDongusu", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-DongulerDoWhileDongusu", "13-DongulerDoWhileDongusu\13-DongulerDoWhileDongusu.csproj", "{C01E125A-E50C-41B8-B8C8-C348E89C3AFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-LABHesapMakinesi", "14-LABHesapMakinesi\14-LABHesapMakinesi.csproj", "{246AB73E-D630-4D9A-B8E6-A145A3DDD8BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C01E125A-E50C-41B8-B8C8-C348E89C3AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C01E125A-E50C-41B8-B8C8-C348E89C3AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C01E125A-E50C-41B8-B8C8-C348E89C3AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246AB73E-D630-4D9A-B8E6-A145A3DDD8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246AB73E-D630-4D9A-B8E6-A145A3DDD8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246AB73E-D630-4D9A-B8E6-A145A3DDD8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246AB73E-D630-4D9A-B8E6-A145A3DDD8BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
