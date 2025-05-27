@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-LABAsalSayi", "16-LABAsa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-AtlamaOperatorleri", "17-AtlamaOperatorleri\17-AtlamaOperatorleri.csproj", "{A872B751-9870-4A7D-8BD7-82394622788E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Diziler", "18-Diziler\18-Diziler.csproj", "{393A73A8-39CE-4D61-B0AC-20E9C8481648}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{A872B751-9870-4A7D-8BD7-82394622788E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A872B751-9870-4A7D-8BD7-82394622788E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A872B751-9870-4A7D-8BD7-82394622788E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393A73A8-39CE-4D61-B0AC-20E9C8481648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393A73A8-39CE-4D61-B0AC-20E9C8481648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393A73A8-39CE-4D61-B0AC-20E9C8481648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393A73A8-39CE-4D61-B0AC-20E9C8481648}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
