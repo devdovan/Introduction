@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-LABHesapMakinesi", "14-L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-LABSayiTahmin", "15-LABSayiTahmin\15-LABSayiTahmin.csproj", "{6ECC0E56-B84D-42EE-946B-204FD8002D8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-LABAsalSayi", "16-LABAsalSayi\16-LABAsalSayi.csproj", "{B6115641-D8AF-46E0-95CE-1062EDC9372D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6ECC0E56-B84D-42EE-946B-204FD8002D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ECC0E56-B84D-42EE-946B-204FD8002D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ECC0E56-B84D-42EE-946B-204FD8002D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6115641-D8AF-46E0-95CE-1062EDC9372D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6115641-D8AF-46E0-95CE-1062EDC9372D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6115641-D8AF-46E0-95CE-1062EDC9372D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6115641-D8AF-46E0-95CE-1062EDC9372D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
