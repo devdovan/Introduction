@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-KararYapılarıTernaryIf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-KararYapilariSwitchCase", "10-KararYapilariSwitchCase\10-KararYapilariSwitchCase.csproj", "{E4583107-8111-4A89-A894-2D8E5A63C328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-DongulerForDongusu", "11-DongulerForDongusu\11-DongulerForDongusu.csproj", "{76460547-9825-4913-994D-ADEB0E922C22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-DongulerForDongusu", "11-DongulerForDongusu\11-DongulerForDongusu.csproj", "{76460547-9825-4913-994D-ADEB0E922C22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-DongulerWhileDongusu", "12-DongulerWhileDongusu\12-DongulerWhileDongusu.csproj", "{C60FAF76-1FF9-4FC9-BAFD-095215470BFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-DongulerWhileDongusu", "12-DongulerWhileDongusu\12-DongulerWhileDongusu.csproj", "{C60FAF76-1FF9-4FC9-BAFD-095215470BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-DongulerDoWhileDongusu", "13-DongulerDoWhileDongusu\13-DongulerDoWhileDongusu.csproj", "{C01E125A-E50C-41B8-B8C8-C348E89C3AFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{C60FAF76-1FF9-4FC9-BAFD-095215470BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C60FAF76-1FF9-4FC9-BAFD-095215470BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C60FAF76-1FF9-4FC9-BAFD-095215470BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01E125A-E50C-41B8-B8C8-C348E89C3AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01E125A-E50C-41B8-B8C8-C348E89C3AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01E125A-E50C-41B8-B8C8-C348E89C3AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01E125A-E50C-41B8-B8C8-C348E89C3AFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
