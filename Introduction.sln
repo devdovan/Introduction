@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-LABSayiTahmin", "15-LABS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-LABAsalSayi", "16-LABAsalSayi\16-LABAsalSayi.csproj", "{B6115641-D8AF-46E0-95CE-1062EDC9372D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-AtlamaOperatorleri", "17-AtlamaOperatorleri\17-AtlamaOperatorleri.csproj", "{A872B751-9870-4A7D-8BD7-82394622788E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{B6115641-D8AF-46E0-95CE-1062EDC9372D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6115641-D8AF-46E0-95CE-1062EDC9372D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6115641-D8AF-46E0-95CE-1062EDC9372D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A872B751-9870-4A7D-8BD7-82394622788E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A872B751-9870-4A7D-8BD7-82394622788E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A872B751-9870-4A7D-8BD7-82394622788E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A872B751-9870-4A7D-8BD7-82394622788E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
