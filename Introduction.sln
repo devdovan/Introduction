@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-BuiltInFunctionString", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-BuiltInFunctionMath", "24-BuiltInFunctionMath\24-BuiltInFunctionMath.csproj", "{5EAB5E67-8647-410B-94AF-13C82103840A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-Methods", "25-Methods\25-Methods.csproj", "{B061EAC4-D1EE-4081-89D3-AB242D3FD183}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{5EAB5E67-8647-410B-94AF-13C82103840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EAB5E67-8647-410B-94AF-13C82103840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EAB5E67-8647-410B-94AF-13C82103840A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B061EAC4-D1EE-4081-89D3-AB242D3FD183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B061EAC4-D1EE-4081-89D3-AB242D3FD183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B061EAC4-D1EE-4081-89D3-AB242D3FD183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B061EAC4-D1EE-4081-89D3-AB242D3FD183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
