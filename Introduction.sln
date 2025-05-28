@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-List", "20-List\20-List.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-DiziListLAB", "21-DiziListLAB\21-DiziListLAB.csproj", "{4A53670C-F0A9-497D-8FE8-7C376CAE29C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-ArrayList", "22-ArrayList\22-ArrayList.csproj", "{F283E622-02B8-4E71-9864-3418914BD717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{4A53670C-F0A9-497D-8FE8-7C376CAE29C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A53670C-F0A9-497D-8FE8-7C376CAE29C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A53670C-F0A9-497D-8FE8-7C376CAE29C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F283E622-02B8-4E71-9864-3418914BD717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F283E622-02B8-4E71-9864-3418914BD717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F283E622-02B8-4E71-9864-3418914BD717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F283E622-02B8-4E71-9864-3418914BD717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
