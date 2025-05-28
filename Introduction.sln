@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-AtlamaOperatorleri", "17
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Diziler", "18-Diziler\18-Diziler.csproj", "{393A73A8-39CE-4D61-B0AC-20E9C8481648}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-DiziOzellikleriveMetotları", "19-DiziOzellikleriveMetotları\19-DiziOzellikleriveMetotları.csproj", "{C9B02E68-EC8F-4264-8A45-B6BEC675138C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{393A73A8-39CE-4D61-B0AC-20E9C8481648}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{393A73A8-39CE-4D61-B0AC-20E9C8481648}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{393A73A8-39CE-4D61-B0AC-20E9C8481648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B02E68-EC8F-4264-8A45-B6BEC675138C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B02E68-EC8F-4264-8A45-B6BEC675138C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B02E68-EC8F-4264-8A45-B6BEC675138C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B02E68-EC8F-4264-8A45-B6BEC675138C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

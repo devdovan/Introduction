@@ -41,7 +41,7 @@
             numbers[2] = 5; //Dizinin 2. indexine 5 değerini yazdık.
             int num = numbers[2]; //Dizinin 2. indexindeki değeri num değişkenine atadık. Diziden eleman okumak
 
-            Console.WriteLine("/n" + new string('*', 20) + "/n");
+            Console.WriteLine("\n" + new string('*', 20) + "\n");
 
             //Dizinin Tüm Elemanlarına Erişim
 
@@ -72,7 +72,7 @@
             Console.WriteLine(deneme[0] * 3);
             Console.WriteLine((int)objects[0] * 2);
 
-            Console.WriteLine("/n" + new string('#', 20) + "/n");
+            Console.WriteLine("\n" + new string('*', 20) + "\n");
 
             #region Ornek-1
 
@@ -95,7 +95,7 @@
             Console.WriteLine("Toplam: " + toplam);
             #endregion
 
-            Console.WriteLine("/n" + new string('$', 20) + "/n");
+            Console.WriteLine("\n" + new string('*', 20) + "\n");
             #region Ornek-2
             //Bir öğrencinin bir derse ait notlarının hesaplandığı bir program yazın.
             Console.WriteLine("Büşra'nın Programlama-I Dersi Notları. ");
