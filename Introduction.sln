@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Diziler", "18-Diziler\18
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-DiziOzellikleriveMetotları", "19-DiziOzellikleriveMetotları\19-DiziOzellikleriveMetotları.csproj", "{C9B02E68-EC8F-4264-8A45-B6BEC675138C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-List", "20-List\20-List.csproj", "{D2B6EBC1-224A-4A17-8FE8-6317758B981A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{C9B02E68-EC8F-4264-8A45-B6BEC675138C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9B02E68-EC8F-4264-8A45-B6BEC675138C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9B02E68-EC8F-4264-8A45-B6BEC675138C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B6EBC1-224A-4A17-8FE8-6317758B981A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B6EBC1-224A-4A17-8FE8-6317758B981A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B6EBC1-224A-4A17-8FE8-6317758B981A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B6EBC1-224A-4A17-8FE8-6317758B981A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
